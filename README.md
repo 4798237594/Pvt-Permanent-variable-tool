@@ -3,6 +3,7 @@
 ## Permanent_variable_tool is updated every Monday through Friday (UTC+8:00)
 ---
 # version entry
+## [PYPI project address for version 1.0.5](https://pypi.org/project/Permanent-variable-tool/1.0.5/)
 ## [PYPI project address for version 1.0.4](https://pypi.org/project/Permanent-variable-tool/1.0.4/)
 ## [PYPI project address for version 1.0.3](https://pypi.org/project/Permanent-variable-tool/1.0.3/)
 ## [PYPI project address for version 1.0.2](https://pypi.org/project/Permanent-variable-tool/1.0.2/)
